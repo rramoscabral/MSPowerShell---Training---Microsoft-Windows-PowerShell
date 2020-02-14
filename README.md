@@ -1,2 +1,2 @@
-# PS---Training---Microsoft-Windows-PowerShell
+# Microsoft Windows PowerShell Training
 Training for Windows PowerShell
