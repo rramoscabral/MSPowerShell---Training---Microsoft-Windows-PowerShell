@@ -10,6 +10,7 @@
 | Visual Studio Code PowerShell Extension | https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell |
 | Windows Management Framework 5.1 | https://www.microsoft.com/en-us/download/details.aspx?id=54616 |
 | Windows Terminal (Preview) | https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701?activetab=pivot:overviewtab |
+| WMI Explorer | https://cdn-powershell.pressidium.com/wp-content/uploads/2013/03/wmiexplorer.zip | 
 
 
 
