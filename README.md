@@ -39,14 +39,16 @@ PowerShell Documentation: https://docs.microsoft.com/en-us/powershell/
 ### Free eBooks
  * [Effective Windows PowerShell, 2009-08-03, Keith Hill](http://keithhill.spaces.live.com/blog/cns!5A8D2641E0963A97!6930.entry)
  * [Learn PowerShell Core 6.0, 2018, Packtpub (Sometimes is free)](https://www.packtpub.com/eu/free-ebooks/java-projects-second-edition)
+ * [PowerShell® Notes for Professionals, Goalkicker](https://goalkicker.com/PowerShellBook/)
  * [PowerShell.org: History of a Community, 2018-10-28, The DevOps Collective, Inc.](https://leanpub.com/powershellorghistoryofacommunity)
-  * [Windows Powershell 4. Examples Quick Guide, PowerShell Magazine](http://download.microsoft.com/download/4/3/1/43113F44-548B-4DEA-B471-0C2C8578FBF8/PowerShell_Examples_v4.pdf)
-  * [Windows PowerShell 4.0 Language Quick Reference, PowerShell Magazine](http://download.microsoft.com/download/4/3/1/43113F44-548B-4DEA-B471-0C2C8578FBF8/PowerShell_LangRef_v4.pdf)
- *  [Windows PowerShell Desired State Configuration Overview](http://download.microsoft.com/download/4/3/1/43113F44-548B-4DEA-B471-0C2C8578FBF8/Quick_Reference_DSC_WS12R2.pdf)
+ * [Windows PowerShell: A Powerful Windows Shell and Scripting Language Refcardz, 2018-04-10. DZone](https://dzone.com/refcardz/windows-powershell?chapter=1)
+ * [Windows Powershell 4. Examples Quick Guide, PowerShell Magazine](http://download.microsoft.com/download/4/3/1/43113F44-548B-4DEA-B471-0C2C8578FBF8/PowerShell_Examples_v4.pdf)
+ * [Windows PowerShell 4.0 Language Quick Reference, PowerShell Magazine](http://download.microsoft.com/download/4/3/1/43113F44-548B-4DEA-B471-0C2C8578FBF8/PowerShell_LangRef_v4.pdf)
+ * [Windows PowerShell Desired State Configuration Overview](http://download.microsoft.com/download/4/3/1/43113F44-548B-4DEA-B471-0C2C8578FBF8/Quick_Reference_DSC_WS12R2.pdf)
  * [Windows PowerShell Elements of Windows Management Infrastructure (WMI)](http://download.microsoft.com/download/4/3/1/43113F44-548B-4DEA-B471-0C2C8578FBF8/Quick_Reference_WMI_Devs_WS12R2.pdf)
  * [Windows PowerShell Integrated Scripting Environment 4.0, PowerShell Magazine](http://download.microsoft.com/download/4/3/1/43113F44-548B-4DEA-B471-0C2C8578FBF8/PowerShell_ISE_v4.pdf)
   * [Windows PowerShell Web Access](http://download.microsoft.com/download/4/3/1/43113F44-548B-4DEA-B471-0C2C8578FBF8/Quick_Reference_SM_WS12R2.pdf)
-   * [WMI in Windows PowerShell 4.0](http://download.microsoft.com/download/4/3/1/43113F44-548B-4DEA-B471-0C2C8578FBF8/Quick_Reference_WMI_ITPro_WS12R2.pdf)
+  * [WMI in Windows PowerShell 4.0](http://download.microsoft.com/download/4/3/1/43113F44-548B-4DEA-B471-0C2C8578FBF8/Quick_Reference_WMI_ITPro_WS12R2.pdf)
 
 
 <br>
