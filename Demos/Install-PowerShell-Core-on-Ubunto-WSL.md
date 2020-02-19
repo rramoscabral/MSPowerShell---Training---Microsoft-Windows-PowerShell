@@ -1,4 +1,4 @@
-# Demo:Install PowerShell Core on Ubunto WSL
+# Demo: Install PowerShell Core on Ubunto WSL
 
 ### Prerequistes:
   * Install Windows Subsystem for Linux (WSL) on Windows 10 and Ubuntu Linux distribution. Instructions available [here](././Lab-Setup.md)
