@@ -31,7 +31,8 @@ PowerShell Documentation: https://docs.microsoft.com/en-us/powershell/
 <br>
 
 ## Resources
- * No information / Available when possible
+ * [DbgShell: A PowerShell front-end for the Windows debugger engine, GitHub Repository](https://github.com/microsoft/DbgShell)
+ * [PowerShell Desired State Configuration for Linux, GitHub Repository](https://github.com/microsoft/PowerShell-DSC-for-Linux)
 
 
 <br>
