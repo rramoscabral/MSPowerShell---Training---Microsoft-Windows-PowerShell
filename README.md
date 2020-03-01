@@ -40,7 +40,7 @@ PowerShell Documentation: https://docs.microsoft.com/en-us/powershell/
 ### Free eBooks
  * [Defending Against the Malicious Use of Admin Tools: PowerShell, 2016-11-28, American National Security Agency/Central Security Service](https://apps.nsa.gov/iaarchive/library/ia-guidance/tech-briefs/defending-against-the-malicious-use-of-admin-tools-powershell.cfm)
  * [Effective Windows PowerShell, 2009-08-03, Keith Hill](http://keithhill.spaces.live.com/blog/cns!5A8D2641E0963A97!6930.entry)
- * [Learn PowerShell Core 6.0, 2018, Packtpub (Sometimes is free)](hhttps://www.packtpub.com/eu/free-ebooks/learn-powershell-core-60)
+ * [Learn PowerShell Core 6.0, 2018, Packtpub (Sometimes is free)](https://www.packtpub.com/eu/free-ebooks/learn-powershell-core-60)
  * [PowerShell® Notes for Professionals, Goalkicker](https://goalkicker.com/PowerShellBook/)
  * [PowerShell.org: History of a Community, 2018-10-28, The DevOps Collective, Inc.](https://leanpub.com/powershellorghistoryofacommunity)
  * [Windows PowerShell: A Powerful Windows Shell and Scripting Language Refcardz, 2018-04-10. DZone](https://dzone.com/refcardz/windows-powershell?chapter=1)
