@@ -12,6 +12,9 @@ This course is intended for IT professionals with experience in Windows Server a
 <br>
 
 PowerShell Documentation: https://docs.microsoft.com/en-us/powershell/
+PowerShell Documentation at GitHub: https://github.com/PowerShell/PowerShell/tree/master/docs/learning-powershell
+
+[Why Learn PowerShell? By Ed Wilson](https://devblogs.microsoft.com/scripting/weekend-scripter-why-learn-powershell/)
 
 
 <br>
@@ -32,7 +35,9 @@ PowerShell Documentation: https://docs.microsoft.com/en-us/powershell/
 
 ## Resources
  * [DbgShell: A PowerShell front-end for the Windows debugger engine, GitHub Repository](https://github.com/microsoft/DbgShell)
+ * [Microsoft PowerShell Community](https://techcommunity.microsoft.com/t5/PowerShell/ct-p/WindowsPowerShell)
  * [PowerShell Desired State Configuration for Linux, GitHub Repository](https://github.com/microsoft/PowerShell-DSC-for-Linux)
+ * [Scripting Blog](https://devblogs.microsoft.com/scripting/)
 
 
 <br>
@@ -43,6 +48,7 @@ PowerShell Documentation: https://docs.microsoft.com/en-us/powershell/
  * [Learn PowerShell Core 6.0, 2018, Packtpub (Sometimes is free)](https://www.packtpub.com/eu/free-ebooks/learn-powershell-core-60)
  * [PowerShell® Notes for Professionals, Goalkicker](https://goalkicker.com/PowerShellBook/)
  * [PowerShell.org: History of a Community, 2018-10-28, The DevOps Collective, Inc.](https://leanpub.com/powershellorghistoryofacommunity)
+ * [The Guide to Learning PowerShell, Tobias Weltner, IDERA](https://www.idera.com/resourcecentral/whitepapers/powershell-ebook)
  * [Windows PowerShell: A Powerful Windows Shell and Scripting Language Refcardz, 2018-04-10. DZone](https://dzone.com/refcardz/windows-powershell?chapter=1)
  * [Windows Powershell 4. Examples Quick Guide, PowerShell Magazine](http://download.microsoft.com/download/4/3/1/43113F44-548B-4DEA-B471-0C2C8578FBF8/PowerShell_Examples_v4.pdf)
  * [Windows PowerShell 4.0 Language Quick Reference, PowerShell Magazine](http://download.microsoft.com/download/4/3/1/43113F44-548B-4DEA-B471-0C2C8578FBF8/PowerShell_LangRef_v4.pdf)
@@ -56,4 +62,7 @@ PowerShell Documentation: https://docs.microsoft.com/en-us/powershell/
 <br>
 
 #### Videos
- * No information / Available when possible
+ * [Getting Started with PowerShell 3.0, Microsoft Channel 9](https://channel9.msdn.com/Series/GetStartedPowerShell3)
+ * [The Scripting Guys, Microsoft Channel 9](https://channel9.msdn.com/Blogs/The-Scripting-Guys)
+ * [Windows PowerShell, Microsoft Channel 9](https://channel9.msdn.com/Search?term=powershell#ch9Search)
+ 
