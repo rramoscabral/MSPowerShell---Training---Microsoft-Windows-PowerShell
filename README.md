@@ -14,7 +14,7 @@ This course is intended for IT professionals with experience in Windows Server a
 PowerShell Documentation: https://docs.microsoft.com/en-us/powershell/
 <br>
 PowerShell Documentation at GitHub: https://github.com/PowerShell/PowerShell/tree/master/docs/learning-powershell
-<br>
+<br><br>
 [Why Learn PowerShell? By Ed Wilson](https://devblogs.microsoft.com/scripting/weekend-scripter-why-learn-powershell/)
 
 
