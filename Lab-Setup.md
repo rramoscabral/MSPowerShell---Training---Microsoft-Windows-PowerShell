@@ -5,7 +5,7 @@
 | Software | Link |
 | --- | --- |
 | Microsoft .NET Framework 4.5.1 (Offline Installer) | https://www.microsoft.com/en-US/download/details.aspx?id=40779 |
-| PowerShell Core (Windows, Linux) | https://github.com/PowerShell/PowerShell/releases |
+| PowerShell Core (Windows, Linux, Mac) | https://github.com/PowerShell/PowerShell/releases |
 | Visual Studio Code | https://code.visualstudio.com/ |
 | Visual Studio Code PowerShell Extension | https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell |
 | Visual Studio Code Remote WSL (Preview) Extension | https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl |
