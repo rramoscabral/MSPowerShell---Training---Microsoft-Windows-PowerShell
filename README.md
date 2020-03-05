@@ -20,8 +20,14 @@ PowerShell Documentation at GitHub: https://github.com/PowerShell/PowerShell/tre
 
 <br>
 
+PowerShell 7.0 is [Generally Available (GA)](https://devblogs.microsoft.com/powershell/announcing-powershell-7-0/) 2020-03-04. The latest release is available [here](https://github.com/PowerShell/PowerShell/releases/latest).
+ 
+<br>
+
 ### Microsoft Labs and Workshops
   * No information / Available when possible
+  
+ <br>
   
  Software list to run the course and workshop labs available [here](./Lab-Setup.md)
  
