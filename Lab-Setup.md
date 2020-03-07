@@ -30,11 +30,20 @@ If you are going to use the Windows 10 operating system, it is recommended to en
     Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
   ```
   2. You can install Linux distros from the Microsoft Store app or you can download and manually install Linux distros by clicking these links:
+      * [Debian GNU/Linux](https://aka.ms/wsl-debian-gnulinux)
+      * [Fedora Remix for WSL](https://github.com/WhitewaterFoundry/WSLFedoraRemix/releases/)
+      * [OpenSUSE Leap 42](https://aka.ms/wsl-opensuse-42)
+      * [Kali Linux](https://aka.ms/wsl-kali-linux-new)
+      * [SUSE Linux Enterprise Server 12](https://aka.ms/wsl-sles-12)    
+      * [Ubuntu 16.04](https://aka.ms/wsl-ubuntu-1604)
       * [Ubuntu 18.04](https://aka.ms/wsl-ubuntu-1804)
       * [Ubuntu 18.04 ARM](https://aka.ms/wsl-ubuntu-1804-arm)
-      * [Ubuntu 16.04](https://aka.ms/wsl-ubuntu-1604)
-      * [Debian GNU/Linux](https://aka.ms/wsl-debian-gnulinux)
-      * [Kali Linux](https://aka.ms/wsl-kali-linux-new)
-      * [OpenSUSE Leap 42](https://aka.ms/wsl-opensuse-42)
-      * [SUSE Linux Enterprise Server 12](https://aka.ms/wsl-sles-12)
-     * [Fedora Remix for WSL](https://github.com/WhitewaterFoundry/WSLFedoraRemix/releases/)
+
+  3. You need to initialize the distro instance by running the command 'wsl'. It  will be prompted to create a new user account and password.
+  
+  4. Is recomended that you update the distribution:
+       * Debian/Kali/Ubunto: sudo apt update
+       * Fedora: sudo dnf update
+       * SUSE: sudo zypper update
+    
+  5. For more informatiion about WSL you can check the documentation [here](https://docs.microsoft.com/en-us/windows/wsl/about?redirectedfrom=MSDN) and the MSDN blog post about WSL [here](https://blogs.msdn.microsoft.com/commandline/learn-about-windows-console-and-windows-subsystem-for-linux-wsl/#primary).
