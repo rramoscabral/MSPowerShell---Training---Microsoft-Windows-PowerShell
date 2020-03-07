@@ -14,7 +14,7 @@ wsl
 sudo su -
 
 # Import the Microsoft public repository GPG keys
-curl https://packages.microsoft.com/keys/microsoft.asc | apt-key add -
+curl https://packages.microsoft.com/keys/microsoft.asc | apt-key add
 
 # Check your Ubuntu distribution version
 lsb_release -a
@@ -47,4 +47,19 @@ Get-ComputerInfo
 Get-Service
 
 # Why Get-ComputerInfo and Get-Services doesn't work?
+
+# To find out run the following cmdlets 
+Get-Module -ListAvailable
+
+<# Did you see the diference?
+
+PSEdition Desk or core
+
+or
+
+CompatiblePSEditions = @("Core")
+CompatiblePSEditions = @('Desktop', 'Core')
+#>
+
+
 ```
