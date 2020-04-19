@@ -56,8 +56,9 @@ PowerShell 7.0 is [Generally Available (GA)](https://devblogs.microsoft.com/powe
 ### Free eBooks
  * [Defending Against the Malicious Use of Admin Tools: PowerShell, 2016-11-28, American National Security Agency/Central Security Service](https://apps.nsa.gov/iaarchive/library/ia-guidance/tech-briefs/defending-against-the-malicious-use-of-admin-tools-powershell.cfm)
  * [Effective Windows PowerShell, 2009-08-03, Keith Hill](http://keithhill.spaces.live.com/blog/cns!5A8D2641E0963A97!6930.entry)
+ * [Learning PowerShel, created from Stack Overflow contributors, RIP Tutorial](https://riptutorial.com/ebook/powershell)
  * [Learn PowerShell Core 6.0, 2018, Packtpub (Sometimes is free)](https://www.packtpub.com/eu/free-ebooks/learn-powershell-core-60)
- * [PowerShell® Notes for Professionals, Goalkicker](https://goalkicker.com/PowerShellBook/)
+ * [PowerShell Notes for Professionals, Goalkicker](https://goalkicker.com/PowerShellBook/)
  * [PowerShell.org: History of a Community, 2018-10-28, The DevOps Collective, Inc.](https://leanpub.com/powershellorghistoryofacommunity)
  * [The Guide to Learning PowerShell, Tobias Weltner, IDERA](https://www.idera.com/resourcecentral/whitepapers/powershell-ebook)
  * [Windows PowerShell: A Powerful Windows Shell and Scripting Language Refcardz, 2018-04-10. DZone](https://dzone.com/refcardz/windows-powershell?chapter=1)
@@ -90,6 +91,8 @@ PowerShell 7.0 is [Generally Available (GA)](https://devblogs.microsoft.com/powe
  <br>
 
 ## Community
+ * [MSFT Scripting Guys Twitter (Dr Scripto)](https://twitter.com/scriptingguys/)
  * [Slack workspace PowerShell](https://join.slack.com/t/powershell/shared_invite/enQtNjk2ODE4MTkxNTY4LWJlOTU3NzBiYWFiMjM3Mzg3M2E5OGJiNGE4YjVhODVlNWNlY2I2ZWRkNGY2NjE4MThiYTg4OWI5NjA4MDM3ZjQ)
+ * [Official Scripting Guys Forum](https://social.technet.microsoft.com/Forums/scriptcenter/en-US/home?forum=ITCG)
  * [PowerShell Discord](https://discord.gg/Ju25cw6)
    
