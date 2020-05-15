@@ -42,7 +42,7 @@ PowerShell 7.0 is [Generally Available (GA)](https://devblogs.microsoft.com/powe
 
 <br>
 
-## Resources
+### Resources
  * [DbgShell: A PowerShell front-end for the Windows debugger engine, GitHub Repository](https://github.com/microsoft/DbgShell)
  * [Microsoft PowerShell Community](https://techcommunity.microsoft.com/t5/PowerShell/ct-p/WindowsPowerShell)
  * [PowerShell Desired State Configuration for Linux, GitHub Repository](https://github.com/microsoft/PowerShell-DSC-for-Linux)
