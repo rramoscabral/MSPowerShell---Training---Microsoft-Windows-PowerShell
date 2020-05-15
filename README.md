@@ -73,7 +73,7 @@ PowerShell 7.0 is [Generally Available (GA)](https://devblogs.microsoft.com/powe
 
 <br>
 
-#### Videos
+### Videos
  * [Getting Started with PowerShell 3.0, Microsoft Channel 9](https://channel9.msdn.com/Series/GetStartedPowerShell3)
  * [The Scripting Guys, Microsoft Channel 9](https://channel9.msdn.com/Blogs/The-Scripting-Guys)
  * [Windows PowerShell, Microsoft Channel 9](https://channel9.msdn.com/Search?term=powershell#ch9Search)
