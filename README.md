@@ -2,7 +2,6 @@
 Training for Windows PowerShell
 
 
-
 ### About the course
 
 Windows PowerShell is a Windows command-line shell designed especially for system administrators. Windows PowerShell includes an interactive prompt and a scripting environment that can be used independently or in combination. 
@@ -17,43 +16,41 @@ PowerShell Documentation at GitHub: https://github.com/PowerShell/PowerShell/tre
 <br><br>
 [Why Learn PowerShell? By Ed Wilson](https://devblogs.microsoft.com/scripting/weekend-scripter-why-learn-powershell/)
 
-
-
-
 <br>
 
 PowerShell 7.0 is [Generally Available (GA)](https://devblogs.microsoft.com/powershell/announcing-powershell-7-0/) 2020-03-04. The latest release is available [here](https://github.com/PowerShell/PowerShell/releases/latest).
  
 <br>
 
-### Microsoft Labs and Workshops
-  * No information / Available when possible
-  
- <br>
-  
+## Lab setup
  Software list to run the course and workshop labs available [here](./Lab-Setup.md)
  
  
 <br>
 
-### Microsoft Samples
+### Microsoft samples
+----------
  * [Microsoft Sample scripts for system administration](https://docs.microsoft.com/en-us/powershell/scripting/samples/sample-scripts-for-administration)
-  * [Windows PowerShell Core Demos for Linux systems](https://github.com/PowerShell/PowerShell/tree/master/demos)
+ * [Windows PowerShell Core Demos for Linux systems](https://github.com/PowerShell/PowerShell/tree/master/demos)
 
 <br>
 
 ### Resources
+----------
  * [DbgShell: A PowerShell front-end for the Windows debugger engine, GitHub Repository](https://github.com/microsoft/DbgShell)
  * [Microsoft PowerShell Community](https://techcommunity.microsoft.com/t5/PowerShell/ct-p/WindowsPowerShell)
  * [PowerShell Desired State Configuration for Linux, GitHub Repository](https://github.com/microsoft/PowerShell-DSC-for-Linux)
+ * [PowerShell Official documentation](https://docs.microsoft.com/en-us/powershell/)
  * [Scripting Blog](https://devblogs.microsoft.com/scripting/)
- * [The Microsoft Script Center](http://technet.microsoft.com/en-us/scriptcenter).
+ * [The Microsoft Script Center](http://technet.microsoft.com/en-us/scriptcenter)
+
  
 
 
 <br>
 
 ### Free eBooks
+----------
  * [Defending Against the Malicious Use of Admin Tools: PowerShell, 2016-11-28, American National Security Agency/Central Security Service](https://apps.nsa.gov/iaarchive/library/ia-guidance/tech-briefs/defending-against-the-malicious-use-of-admin-tools-powershell.cfm)
  * [Effective Windows PowerShell, 2009-08-03, Keith Hill](http://keithhill.spaces.live.com/blog/cns!5A8D2641E0963A97!6930.entry)
  * [Learning PowerShel, created from Stack Overflow contributors, RIP Tutorial](https://riptutorial.com/ebook/powershell)
@@ -74,6 +71,7 @@ PowerShell 7.0 is [Generally Available (GA)](https://devblogs.microsoft.com/powe
 <br>
 
 ### Videos
+----------
  * [Getting Started with PowerShell 3.0, Microsoft Channel 9](https://channel9.msdn.com/Series/GetStartedPowerShell3)
  * [The Scripting Guys, Microsoft Channel 9](https://channel9.msdn.com/Blogs/The-Scripting-Guys)
  * [Windows PowerShell, Microsoft Channel 9](https://channel9.msdn.com/Search?term=powershell#ch9Search)
@@ -82,15 +80,18 @@ PowerShell 7.0 is [Generally Available (GA)](https://devblogs.microsoft.com/powe
  <br>
 
 ## Repositories
+----------
  * [Microsoft PowerShell Gallery](https://www.powershellgallery.com/)
- * [MyGet PowerShell Gallery](https://powershell.myget.org/gallery)
  * [Microsoft Technet Script Center Repository](http://gallery.technet.microsoft.com/scriptcenter)
-   * **Warning**: Microsoft are retiring the TechNet Gallery. Make sure to back up your code. 
+   * **Warning**: Microsoft are retiring the TechNet Gallery. Make sure to back up your code. .
+ * [MyGet PowerShell Gallery](https://powershell.myget.org/gallery)
+ * [PowerShell Source Code](https://github.com/PowerShell/PowerShell)
    
    
  <br>
 
-## Community
+### Community
+----------
  * [MSFT Scripting Guys Twitter (Dr Scripto)](https://twitter.com/scriptingguys/)
  * [Slack workspace PowerShell](https://join.slack.com/t/powershell/shared_invite/enQtNjk2ODE4MTkxNTY4LWJlOTU3NzBiYWFiMjM3Mzg3M2E5OGJiNGE4YjVhODVlNWNlY2I2ZWRkNGY2NjE4MThiYTg4OWI5NjA4MDM3ZjQ)
  * [Official Scripting Guys Forum](https://social.technet.microsoft.com/Forums/scriptcenter/en-US/home?forum=ITCG)
