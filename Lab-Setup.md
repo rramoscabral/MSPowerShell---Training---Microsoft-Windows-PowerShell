@@ -16,11 +16,11 @@
 
 <br>
 
-## Windows Subsystem for Linux (WSL)
-
+### Windows Subsystem for Linux (WSL)
+----------
 **Using Linux on Windows 10**
 
-If you are going to use the Windows 10 operating system, it is recommended to enable Microsoft Windows Subsystem Linux and install a distribution of your choice (For Az-220 it is recommended Ubunto LTS)
+If you are going to use the Windows 10 operating system, it is recommended to enable Microsoft Windows Subsystem Linux and install a distribution of your choice
 
   How-to Install:
   
