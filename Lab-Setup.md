@@ -59,7 +59,7 @@ How-to Install:
 | Pengwin Enterprise | [Microsoft Store](https://www.microsoft.com/store/apps/9N8LP0X93VCP) | Link not available | 
 | SUSE Linux Enterprise Server 12 | [Microsoft Store](https://www.microsoft.com/store/apps/9MZ3D1TRP8T1) | [Download](https://aka.ms/wsl-sles-12)  | 
 | SUSE Linux Enterprise Server 15 | [Microsoft Store](https://www.microsoft.com/store/apps/9PN498VPMF3Z) | Link not available | 
-| Ubuntu 16.04 | [Microsoft Store](https://www.microsoft.com/store/apps/9pjn388hp8c9) | [Download]https://aka.ms/wsl-ubuntu-1604) | 
+| Ubuntu 16.04 | [Microsoft Store](https://www.microsoft.com/store/apps/9pjn388hp8c9) | [Download](https://aka.ms/wsl-ubuntu-1604) | 
 | Ubuntu 18.04 | [Microsoft Store](https://www.microsoft.com/store/apps/9N9TNGVNDL3Q) | [Download](https://aka.ms/wsl-ubuntu-1804) | 
 | Ubuntu 18.04 ARM | Link not available | [Download](https://aka.ms/wsl-ubuntu-1804-arm) |
 | Ubuntu 20.04 | [Microsoft Store](https://www.microsoft.com/store/apps/9n6svws3rx71) | [Download](https://aka.ms/wslubuntu2004) | 
