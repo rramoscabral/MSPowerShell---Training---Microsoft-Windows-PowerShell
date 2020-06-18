@@ -31,7 +31,9 @@ Windows Server 2019
   * WSL 1 is only available in Windows Server 2019 version 1709 or higher
   * WSL 2 is only available in Windows Server Insider Preview build 18945 or higher
 
-  How-to Install:
+<br/>
+
+How-to Install:
   
   1. Before installing any Linux distros for WSL, you must ensure that the "Windows Subsystem for Linux" optional feature is enabled using Windows PowerShell:
   ```powershell
@@ -39,7 +41,9 @@ Windows Server 2019
     Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux 
   ```
   This action requires restart
-  
+ 
+ <br/>
+ 
   2. You can install Linux distros from the Microsoft Store app or you can download and manually install Linux distros by clicking these links:
   
 
@@ -61,7 +65,12 @@ Windows Server 2019
 | Ubuntu 20.04 | [Microsoft Store](https://www.microsoft.com/store/apps/9n6svws3rx71) | [Download](https://aka.ms/wslubuntu2004) | 
 | Ubuntu 20.04 ARM | Link not available | [Download](https://aka.ms/wslubuntu2004arm) |
       
-      
+     
+   **Warning about Ubunto 20.04:** Ubuntu 20.04 is an LTS release. PowerShell does not currently support this version. Support for this version is being considered for the PowerShell 7.1 release. Please upvote this [request](https://github.com/PowerShell/PowerShell/issues/12626) if you would like support for Ubuntu 20.04.
+   
+
+<br/>
+       
   3. Set your distribution version to WSL 1 or WSL 2
   ```powershell
     # View Linux distribution
@@ -73,16 +82,18 @@ Windows Server 2019
     
     # Make WSL 2 your default architecture
     wsl --set-default-version 2
-  ``` 
-      
+  ```
+<br/>
  
   4. You need to initialize the distro instance by running the command 'wsl'. It  will be prompted to create a new user account and password.
   
-  
+<br/>
+
   5. Is recomended that you update the distribution:
        * Debian/Kali/Ubunto: sudo apt update
        * Fedora: sudo dnf update
        * SUSE: sudo zypper update
     
-    
+ <br/> 
+  
   6. For more informatiion about WSL you can check the documentation [here](https://docs.microsoft.com/en-us/windows/wsl/about?redirectedfrom=MSDN) and the MSDN blog post about WSL [here](https://blogs.msdn.microsoft.com/commandline/learn-about-windows-console-and-windows-subsystem-for-linux-wsl/#primary).
