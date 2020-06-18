@@ -38,7 +38,7 @@ Windows Serer
     Install-Module PowerShellGet -Force
     Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux 
   ```
->>This action requires restart
+  This action requires restart
   
   2. You can install Linux distros from the Microsoft Store app or you can download and manually install Linux distros by clicking these links:
   
