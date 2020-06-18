@@ -27,7 +27,7 @@ Windows 10
  * WSL 2 is only available in Windows 10 version 2004, Build 19041 or higher
     * [Comparing WSL 2 and WSL 1](https://docs.microsoft.com/en-us/windows/wsl/compare-versions)
 
-Windows Serer
+Windows Server 2019
   * WSL 1 is only available in Windows Server 2019 version 1709 or higher
   * WSL 2 is only available in Windows Server Insider Preview build 18945 or higher
 
