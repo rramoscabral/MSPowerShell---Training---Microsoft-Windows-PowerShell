@@ -96,4 +96,4 @@ How-to Install:
     
  <br/> 
   
-  6. For more informatiion about WSL you can check the documentation [here](https://docs.microsoft.com/en-us/windows/wsl/about?redirectedfrom=MSDN) and the MSDN blog post about WSL [here](https://blogs.msdn.microsoft.com/commandline/learn-about-windows-console-and-windows-subsystem-for-linux-wsl/#primary).
+  6. For more information about WSL you can check the documentation [here](https://docs.microsoft.com/en-us/windows/wsl/about?redirectedfrom=MSDN) and the MSDN blog post about WSL [here](https://blogs.msdn.microsoft.com/commandline/learn-about-windows-console-and-windows-subsystem-for-linux-wsl/#primary).
