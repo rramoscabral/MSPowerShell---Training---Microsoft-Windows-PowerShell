@@ -18,7 +18,7 @@
 
 ### Windows Subsystem for Linux (WSL)
 ----------
-** Using Linux on Windows 10 or Windows Server **
+**Using Linux on Windows 10 or Windows Server**
 
 If you are going to use the Windows 10 operating system, it is recommended to enable Microsoft Windows Subsystem Linux and install a distribution of your choice
 
@@ -78,9 +78,11 @@ Windows Serer
  
   4. You need to initialize the distro instance by running the command 'wsl'. It  will be prompted to create a new user account and password.
   
+  
   5. Is recomended that you update the distribution:
        * Debian/Kali/Ubunto: sudo apt update
        * Fedora: sudo dnf update
        * SUSE: sudo zypper update
+    
     
   6. For more informatiion about WSL you can check the documentation [here](https://docs.microsoft.com/en-us/windows/wsl/about?redirectedfrom=MSDN) and the MSDN blog post about WSL [here](https://blogs.msdn.microsoft.com/commandline/learn-about-windows-console-and-windows-subsystem-for-linux-wsl/#primary).
